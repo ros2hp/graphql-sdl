@@ -3,7 +3,7 @@ package parser
 import (
 	"testing"
 
-	"github.com/ros2hp/graph-sdl/lexer"
+	"github.com/ros2hp/graphql-sdl/lexer"
 )
 
 func TestExtend0(t *testing.T) {

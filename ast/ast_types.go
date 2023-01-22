@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ros2hp/graph-sdl/internal/token"
+	"github.com/ros2hp/graphql-sdl/internal/token"
 )
 
 type TypeFlag_ uint8

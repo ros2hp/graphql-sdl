@@ -1,7 +1,7 @@
 package document
 
 import (
-	"github.com/ros2hp/graph-sdl/internal/db"
+	"github.com/ros2hp/graphql-sdl/internal/db"
 )
 
 var NoItemFoundErr = db.NoItemFoundErr

@@ -10,7 +10,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/ros2hp/graph-sdl/internal/token"
+	"github.com/ros2hp/graphql-sdl/internal/token"
 )
 
 //

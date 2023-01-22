@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ros2hp/graph-sdl/lexer"
+	"github.com/ros2hp/graphql-sdl/lexer"
 )
 
 func TestEnumValidx(t *testing.T) {

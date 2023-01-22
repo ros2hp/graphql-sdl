@@ -5,9 +5,9 @@ import (
 	"log"
 	"sync"
 
-	"github.com/ros2hp/graph-sdl/ast"
-	"github.com/ros2hp/graph-sdl/internal/db"
-	"github.com/ros2hp/graph-sdl/lexer"
+	"github.com/ros2hp/graphql-sdl/ast"
+	"github.com/ros2hp/graphql-sdl/internal/db"
+	"github.com/ros2hp/graphql-sdl/lexer"
 )
 
 // for GL types only

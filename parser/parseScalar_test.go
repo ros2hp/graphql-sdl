@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ros2hp/graph-sdl/internal/db"
-	"github.com/ros2hp/graph-sdl/lexer"
+	"github.com/ros2hp/graphql-sdl/internal/db"
+	"github.com/ros2hp/graphql-sdl/lexer"
 )
 
 func TestScalarStmtInvalidName(t *testing.T) {

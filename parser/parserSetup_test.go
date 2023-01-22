@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	db "github.com/ros2hp/graph-sdl/document"
-	"github.com/ros2hp/graph-sdl/lexer"
+	db "github.com/ros2hp/graphql-sdl/document"
+	"github.com/ros2hp/graphql-sdl/lexer"
 )
 
 func TestSetup4Fragments(t *testing.T) {
