@@ -8,7 +8,7 @@ Implements specification:  https://spec.graphql.org/June2018/
 
 ## Testing ##
 
-Over 170 test functions are provided.
+Over 170 test functions are include.
 
 ```
 cd parser
