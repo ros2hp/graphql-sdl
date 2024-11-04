@@ -1,6 +1,6 @@
 ## graph-sdl ##
 
-The schema definition compoenent of GraphQL. 
+The schema definition language component of GraphQL. 
 
 All documents and types are stored in AWS Dynamodb.
 
